@@ -1,2 +1,2 @@
 # testveres
-repository for Veres
+repository for Veres.
